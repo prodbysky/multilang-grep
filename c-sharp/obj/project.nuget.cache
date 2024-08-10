@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsBnQkqTB+VsATZfXUz6vGAoJRbz/29jKNvGxMM6GmQknANTyCdAbgkxuz/EozGPrmBOAKEIhoeNSGdBR0DYlg==",
+  "success": true,
+  "projectFilePath": "/home/sky/dev/multilang-grep/c-sharp/c-sharp.csproj",
+  "expectedPackageFiles": [
+    "/home/sky/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

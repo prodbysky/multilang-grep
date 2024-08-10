@@ -1,0 +1,15 @@
+/home/sky/dev/multilang-grep/c-sharp/bin/Debug/net8.0/c-sharp
+/home/sky/dev/multilang-grep/c-sharp/bin/Debug/net8.0/c-sharp.deps.json
+/home/sky/dev/multilang-grep/c-sharp/bin/Debug/net8.0/c-sharp.runtimeconfig.json
+/home/sky/dev/multilang-grep/c-sharp/bin/Debug/net8.0/c-sharp.dll
+/home/sky/dev/multilang-grep/c-sharp/bin/Debug/net8.0/c-sharp.pdb
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.AssemblyInfoInputs.cache
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.AssemblyInfo.cs
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.csproj.CoreCompileInputs.cache
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.sourcelink.json
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.dll
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/refint/c-sharp.dll
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.pdb
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/c-sharp.genruntimeconfig.cache
+/home/sky/dev/multilang-grep/c-sharp/obj/Debug/net8.0/ref/c-sharp.dll
